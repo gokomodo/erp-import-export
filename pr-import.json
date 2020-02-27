@@ -17,7 +17,7 @@
         "requested_brand": "Requested Brand",
         "uom": "uom",
         "notes": "notes",
-        "material_number": "13234324343243",
+        "material_number": "13234324343243"
       }, 
       {
         "name": "Mesin cuci",
@@ -25,7 +25,7 @@
         "requested_brand": "Samsung",
         "uom": "uom",
         "notes": "notes",
-        "material_number": "13234324343243",
+        "material_number": "13234324343243"
       }]
     },
     {
@@ -44,7 +44,7 @@
         "requested_brand": "Requested Brand",
         "uom": "uom",
         "notes": "notes",
-        "material_number": "13234324343243",
+        "material_number": "13234324343243"
       }]
     }
   ]
