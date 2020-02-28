@@ -19,7 +19,7 @@
       "location_province_name": "DKI Jakarta",
       "location_postcode": "28283",
       "location_longitude": 0,
-      "location_latitude": 0,
+      "location_latitude": 0
     },
     "requested_items": [{
       "name": "Television",
@@ -27,7 +27,7 @@
       "requested_brand": "Requested Brand",
       "uom": "uom",
       "notes": "notes",
-      "material_number": "13234324343243",
+      "material_number": "13234324343243"
     }],
     "quotations": [{
       "quotation_id": "Q-1234",
@@ -52,7 +52,7 @@
           "delivered_unit_cost": 275000,
           "quantity": 10000,
           "total": 2750000000,
-          "brand": "",
+          "brand": ""
         }],
         "total": 2750000000,
         "total_delivery_cost": 0,
