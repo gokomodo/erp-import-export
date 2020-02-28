@@ -1,62 +1,61 @@
-
 {
-  "rfq_id": "WwP4JW1Z",
-  "subject": "Subject",
-  "date_posted": "Date Posted",
-  "submission_deadline": "17 Feb 2020 03:30",
-  "expected_delivery": "24 Feb 2020 – 8 Mar 2020",
-  "root_category": "Information Technology",
-  "payment_terms": "Payment Terms",
-  "quotation_deliveries": [{
-    "pr_id": "000000000",
-    "delivery_information": {
-      "company_name": "PT Star Wars enterprise",
-      "company_id": 1,
-      "location_address_line_1": "JL Jend Sudirman Kav 45",
-      "location_address_line_2": "Sampoerna Strategic Square",
-      "location_subdistrict": "Setia Budi",
-      "location_city_name": "Kota Jakarta Selatan",
-      "location_province_name": "DKI Jakarta",
-      "location_postcode": "28283",
-      "location_longitude": 0,
-      "location_latitude": 0
-    }
-    "requested_items": [{
-      "name": "Television",
-      "quantity": 10,
-      "requested_brand": "Requested Brand",
-      "uom": "uom",
-      "notes": "notes",
-      "material_number": "13234324343243"
-    }],
-    "quotations": [{
-      "quotation_id": "Q-1234",
-      "vendor_name": "PT. Vendor Name Indonesia",
-      "contact_person": "First Last Name",
-      "email_address": "email@email.com",
-      "phone": "+628123453332",
-      "product_deliveries": [{
-        "pr_id": "000000000",
-        "subsidiary_id": 1,
-        "location_address_line_1": "JL Jend Sudirman Kav 45",
-        "location_address_line_2": "Sampoerna Strategic Square",
-        "location_subdistrict": "Setia Budi",
-        "location_city_name": "Kota Jakarta Selatan",
-        "location_province_name": "DKI Jakarta",
-        "location_postcode": "28283",
-        "location_longitude": 0,
-        "location_latitude": 0
-        "products": [{
-          "unit_cost": 275000,
-          "delivery_cost": 0,
-          "delivered_unit_cost": 275000,
-          "quantity": 10000,
-          "total": 2750000000,
-          "brand": ""
-        }],
-        "total": 2750000000,
-        "total_delivery_cost": 0,
-      }]
-    }]
-  }]
+	"rfq_id": "WwP4JW1Z",
+	"subject": "Subject",
+	"date_posted": "Date Posted",
+	"submission_deadline": "17 Feb 2020 03:30",
+	"expected_delivery": "24 Feb 2020 – 8 Mar 2020",
+	"root_category": "Information Technology",
+	"payment_terms": "Payment Terms",
+	"quotation_deliveries": [{
+		"pr_id": "000000000",
+		"delivery_information": {
+			"company_name": "PT Star Wars enterprise",
+			"company_id": 1,
+			"location_address_line_1": "JL Jend Sudirman Kav 45",
+			"location_address_line_2": "Sampoerna Strategic Square",
+			"location_subdistrict": "Setia Budi",
+			"location_city_name": "Kota Jakarta Selatan",
+			"location_province_name": "DKI Jakarta",
+			"location_postcode": "28283",
+			"location_longitude": 0,
+			"location_latitude": 0
+		},
+		"requested_items": [{
+			"name": "Television",
+			"quantity": 10,
+			"requested_brand": "Requested Brand",
+			"uom": "uom",
+			"notes": "notes",
+			"material_number": "13234324343243"
+		}],
+		"quotations": [{
+			"quotation_id": "Q-1234",
+			"vendor_name": "PT. Vendor Name Indonesia",
+			"contact_person": "First Last Name",
+			"email_address": "email@email.com",
+			"phone": "+628123453332",
+			"product_deliveries": [{
+				"pr_id": "000000000",
+				"subsidiary_id": 1,
+				"location_address_line_1": "JL Jend Sudirman Kav 45",
+				"location_address_line_2": "Sampoerna Strategic Square",
+				"location_subdistrict": "Setia Budi",
+				"location_city_name": "Kota Jakarta Selatan",
+				"location_province_name": "DKI Jakarta",
+				"location_postcode": "28283",
+				"location_longitude": 0,
+				"location_latitude": 0,
+				"products": [{
+					"unit_cost": 275000,
+					"delivery_cost": 0,
+					"delivered_unit_cost": 275000,
+					"quantity": 10000,
+					"total": 2750000000,
+					"brand": ""
+				}],
+				"total": 2750000000,
+				"total_delivery_cost": 0
+			}]
+		}]
+	}]
 }
