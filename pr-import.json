@@ -7,8 +7,8 @@
         "address_line_1": "JL Jend Sudirman Kav 45",
         "address_line_2": "Sampoerna Strategic Square",
         "subdistrict": "Setia Budi",
-        "city_name": "Kota Jakarta Selatan",
-        "province_name": "DKI Jakarta",
+        "city": "Kota Jakarta Selatan",
+        "province": "DKI Jakarta",
         "postcode": "28283",
         "longitude": 0,
         "latitude": 0
@@ -37,8 +37,8 @@
         "address_line_1": "JL Jend Sudirman Kav 45",
         "address_line_2": "Sampoerna Strategic Square",
         "subdistrict": "Setia Budi",
-        "city_name": "Kota Jakarta Selatan",
-        "province_name": "DKI Jakarta",
+        "city": "Kota Jakarta Selatan",
+        "province": "DKI Jakarta",
         "postcode": "28283",
         "longitude": 0,
         "latitude": 0
