@@ -1,46 +1,46 @@
 {
-  "rfq": {
-    "rfq_id": "RFQ-123456",
-    "subject": "Subject",
-    "date_posted": "Date Posted",
-    "submission_deadline": "17 Feb 2020 03:30",
-    "expected_delivery": "24 Feb 2020 – 8 Mar 2020",
-    "payment_terms": "Payment Terms",
-    "root_category": "Information Technology",
-  },
-  "tc_deliveries": [{
-    "pr_id": "000000000",
-    "delivery_information": {
-      "company_name": "PT Star Wars enterprise",
-      "company_id": 1,
-      "location_address_line_1": "JL Jend Sudirman Kav 45",
-      "location_address_line_2": "Sampoerna Strategic Square",
-      "location_subdistrict": "Setia Budi",
-      "location_city_name": "Kota Jakarta Selatan",
-      "location_province_name": "DKI Jakarta",
-      "location_postcode": "28283",
-      "location_longitude": 0,
-      "location_latitude": 0,
-    },
-    "requested_items": [{
-      "name": "Television",
-      "quantity": 10,
-      "requested_brand": "Requested Brand",
-      "uom": "uom",
-      "notes": "notes",
-      "material_number": "13234324343243",
-    }],
-    "tc_delivery_items": [{
-      "name": "Product",
-      "uom": "Unit",
-      "brand": "",
-      "unit_cost": 273000,
-      "delivery_cost": 0,
-      "delivered_unit_cost": 273000,
-      "quantity": 10000,
-      "total": 2730000000
-    }],
-    "total": 2730000000,
-    "total_delivery_cost": 0
-  }]
+	"rfq": {
+		"rfq_id": "RFQ-123456",
+		"subject": "Subject",
+		"date_posted": "Date Posted",
+		"submission_deadline": "17 Feb 2020 03:30",
+		"expected_delivery": "24 Feb 2020 – 8 Mar 2020",
+		"payment_terms": "Payment Terms",
+		"root_category": "Information Technology"
+	},
+	"tc_deliveries": [{
+		"pr_id": "000000000",
+		"delivery_information": {
+			"company_name": "PT Star Wars enterprise",
+			"company_id": 1,
+			"location_address_line_1": "JL Jend Sudirman Kav 45",
+			"location_address_line_2": "Sampoerna Strategic Square",
+			"location_subdistrict": "Setia Budi",
+			"location_city_name": "Kota Jakarta Selatan",
+			"location_province_name": "DKI Jakarta",
+			"location_postcode": "28283",
+			"location_longitude": 0,
+			"location_latitude": 0
+		},
+		"requested_items": [{
+			"name": "Television",
+			"quantity": 10,
+			"requested_brand": "Requested Brand",
+			"uom": "uom",
+			"notes": "notes",
+			"material_number": "13234324343243"
+		}],
+		"tc_delivery_items": [{
+			"name": "Product",
+			"uom": "Unit",
+			"brand": "",
+			"unit_cost": 273000,
+			"delivery_cost": 0,
+			"delivered_unit_cost": 273000,
+			"quantity": 10000,
+			"total": 2730000000
+		}],
+		"total": 2730000000,
+		"total_delivery_cost": 0
+	}]
 }
