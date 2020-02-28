@@ -2,15 +2,17 @@
   "product_deliveries": [
     {
       "pr_id": "000000001",
-      "subsidiary_id": 1,
-      "location_address_line_1": "JL Jend Sudirman Kav 45",
-      "location_address_line_2": "Sampoerna Strategic Square",
-      "location_subdistrict": "Setia Budi",
-      "location_city_name": "Kota Jakarta Selatan",
-      "location_province_name": "DKI Jakarta",
-      "location_postcode": "28283",
-      "location_longitude": 0,
-      "location_latitude": 0,
+      "subsidiary_id": 911,
+      "location": {
+        "address_line_1": "JL Jend Sudirman Kav 45",
+        "address_line_2": "Sampoerna Strategic Square",
+        "subdistrict": "Setia Budi",
+        "city_name": "Kota Jakarta Selatan",
+        "province_name": "DKI Jakarta",
+        "postcode": "28283",
+        "longitude": 0,
+        "latitude": 0
+      },
       "products": [{
         "name": "Television",
         "quantity": 10,
@@ -30,14 +32,17 @@
     },
     {
       "pr_id": "000000002",
-      "subsidiary_id": 2,
-      "location_address_line_1": "JL Jend Sudirman Kav 45",
-      "location_address_line_2": "Sampoerna Strategic Square",
-      "location_subdistrict": "Setia Budi",
-      "location_city_name": "Kota Jakarta Selatan",
-      "location_province_name": "DKI Jakarta",
-      "location_longitude": 0,
-      "location_latitude": 0,
+      "subsidiary_id": 910,
+      "location": {
+        "address_line_1": "JL Jend Sudirman Kav 45",
+        "address_line_2": "Sampoerna Strategic Square",
+        "subdistrict": "Setia Budi",
+        "city_name": "Kota Jakarta Selatan",
+        "province_name": "DKI Jakarta",
+        "postcode": "28283",
+        "longitude": 0,
+        "latitude": 0
+      },
       "products": [{
         "name": "Television",
         "quantity": 10,
