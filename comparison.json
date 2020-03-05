@@ -25,6 +25,7 @@
 			
 		},
 		"requested_items": [{
+			"id": 100,
 			"name": "Television",
 			"quantity": 10,
 			"requested_brand": "Requested Brand",
@@ -39,12 +40,18 @@
 			"email_address": "email@email.com",
 			"phone": "+628123453332",
 			"products": [{
+				"id": 100,
+				"name": "Television",
+				"brand": "Brand",
+				"uom": "uom",
+				"notes": "notes",
+				"material_number": "13234324343243",
+				"quantity": 10,
 				"unit_cost": 275000,
 				"delivery_cost": 0,
 				"delivered_unit_cost": 275000,
 				"quantity": 10000,
-				"total": 2750000000,
-				"brand": ""
+				"total": 2750000000
 			}],
 			"total": 2750000000,
 			"total_delivery_cost": 0
