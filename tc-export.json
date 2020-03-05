@@ -13,14 +13,16 @@
 		"delivery_information": {
 			"company_name": "PT Star Wars enterprise",
 			"company_id": 1,
-			"location_address_line_1": "JL Jend Sudirman Kav 45",
-			"location_address_line_2": "Sampoerna Strategic Square",
-			"location_subdistrict": "Setia Budi",
-			"location_city_name": "Kota Jakarta Selatan",
-			"location_province_name": "DKI Jakarta",
-			"location_postcode": "28283",
-			"location_longitude": 0,
-			"location_latitude": 0
+			"location": {
+				"address_line_1": "JL Jend Sudirman Kav 45",
+				"address_line_2": "Sampoerna Strategic Square",
+				"subdistrict": "Setia Budi",
+				"city_name": "Kota Jakarta Selatan",
+				"province_name": "DKI Jakarta",
+				"postcode": "28283",
+				"longitude": 0,
+				"latitude": 0
+			}
 		},
 		"requested_items": [{
 			"name": "Television",
