@@ -1,6 +1,7 @@
 {
 	"rfq": {
 		"rfq_id": "RFQ-123456",
+		"vendor_id": 123,
 		"subject": "Subject",
 		"date_posted": "Date Posted",
 		"submission_deadline": "17 Feb 2020 03:30",
@@ -13,6 +14,7 @@
 		"delivery_information": {
 			"company_name": "PT Star Wars enterprise",
 			"company_id": 1,
+			"internal_id": "ABC",
 			"location": {
 				"address_line_1": "JL Jend Sudirman Kav 45",
 				"address_line_2": "Sampoerna Strategic Square",
