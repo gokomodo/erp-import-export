@@ -32,7 +32,7 @@
 			"requested_brand": "Requested Brand",
 			"uom": "uom",
 			"notes": "notes",
-			"material_number": "13234324343243"
+			"material_code": "13234324343243"
 		}],
 		"tc_delivery_items": [{
 			"name": "Product",
