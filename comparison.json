@@ -31,7 +31,7 @@
 			"requested_brand": "Requested Brand",
 			"uom": "uom",
 			"notes": "notes",
-			"material_number": "13234324343243"
+			"material_code": "13234324343243"
 		}],
 		"quotations": [{
 			"quotation_id": "Q-1234",
@@ -46,7 +46,7 @@
 				"brand": "Brand",
 				"uom": "uom",
 				"notes": "notes",
-				"material_number": "13234324343243",
+				"material_code": "13234324343243",
 				"quantity": 10,
 				"unit_cost": 275000,
 				"delivery_cost": 0,
