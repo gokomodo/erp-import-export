@@ -51,9 +51,15 @@
 				"unit_cost": 275000,
 				"delivery_cost": 0,
 				"delivered_unit_cost": 275000,
+                		"discount": 0,
+                		"discount_type": "",
+                		"discount_total": 0,
 				"total": 2750000000
 			}],
-			"total": 2750000000,
+            		"discount": 10,
+            		"discount_type": "percent",
+            		"discount_total": 275000000,
+			"total": 2475000000,
 			"total_delivery_cost": 0
 		}]
 	}]
