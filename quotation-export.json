@@ -56,16 +56,13 @@
                 "unit_cost": 75000,
                 "delivery_cost": 0,
                 "delivered_unit_cost": 75000,
-                "discount_value": 0,
-                "discount_type": "",
-                "discount_total": 0,
-                "total": 750000
+                "discount_value": 10,
+                "discount_type": "percent",
+                "discount_total": 7500,
+                "total": 675000
               }
             ],
-            "discount_value": 10,
-            "discount_type": "percent",
-            "discount_total": 77500,
-            "total": 697500,
+            "total": 700000,
             "total_delivery_cost": 25000
           },
           {
@@ -93,9 +90,6 @@
                 "total": 90000
               }
             ],
-            "discount_value": 0,
-            "discount_type": "",
-            "discount_total": 0,
             "total": 140000,
             "total_delivery_cost": 50000
           }
