@@ -1,0 +1,105 @@
+{
+    "rfq_id": "b19kOnPN",
+    "subject": "TEST",
+    "date_posted": "2020-06-25T16:47:13+07:00",
+    "submission_deadline": "2020-06-25T20:30:00+07:00",
+    "expected_delivery_start": "2020-06-28T07:00:00+07:00",
+    "expected_delivery_end": "2020-06-30T07:00:00+07:00",
+    "root_category": "Vehicle & Transportation",
+    "payment_terms": "gratis",
+    "quotation_deliveries": [
+      {
+        "pr_id": "",
+        "delivery_information": {
+          "company_name": "PT BGA Group",
+          "company_id": 955,
+          "internal_id": "",
+          "location": {
+            "address_line_1": "JL. Setiabudi Barat III no, 24",
+            "address_line_2": "",
+            "subdistrict": "Setia Budi",
+            "city": "Kota Jakarta Selatan",
+            "province": "DKI Jakarta",
+            "postcode": "12345",
+            "longitude": 0,
+            "latitude": 0
+          }
+        },
+        "requested_items": [
+          {
+            "id": 6482,
+            "name": "P1",
+            "quantity": 10,
+            "uom": "Unit",
+            "notes": "",
+            "requested_brand": "HONDA",
+            "material_number": ""
+          }
+        ],
+        "quotations": [
+          {
+            "quotation_id": "Jb0K48D1mpGRMdLjXxZp",
+            "vendor_id": 1049,
+            "vendor_name": "PT Lisbon Otomotif",
+            "contact_person": "Sergio Rizki",
+            "email_address": "lisbon@example.com",
+            "phone": "+62",
+            "products": [
+              {
+                "id": 6482,
+                "name": "P1",
+                "notes": "",
+                "brand": "",
+                "uom": "Unit",
+                "material_number": "",
+                "quantity": 10,
+                "unit_cost": 75000,
+                "delivery_cost": 0,
+                "delivered_unit_cost": 75000,
+                "discount": 0,
+                "discount_type": "",
+                "discount_total": 0,
+                "total": 750000
+              }
+            ],
+            "discount": 10,
+            "discount_type": "percent",
+            "discount_total": 77500,
+            "total": 697500,
+            "total_delivery_cost": 25000
+          },
+          {
+            "quotation_id": "VXJyb4pMEDRQPQo9rv2x",
+            "vendor_id": 1048,
+            "vendor_name": "PT Setia Sarana Motor",
+            "contact_person": "Agus ",
+            "email_address": "setia@example.com",
+            "phone": "+62",
+            "products": [
+              {
+                "id": 6482,
+                "name": "P1",
+                "notes": "",
+                "brand": "",
+                "uom": "Unit",
+                "material_number": "",
+                "quantity": 10,
+                "unit_cost": 10000,
+                "delivery_cost": 0,
+                "delivered_unit_cost": 10000,
+                "discount": 1000,
+                "discount_type": "amount",
+                "discount_total": 10000,
+                "total": 90000
+              }
+            ],
+            "discount": 0,
+            "discount_type": "",
+            "discount_total": 0,
+            "total": 140000,
+            "total_delivery_cost": 50000
+          }
+        ]
+      }
+    ]
+}
