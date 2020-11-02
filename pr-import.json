@@ -1,7 +1,7 @@
 {
   "product_deliveries": [
     {
-      "pr_id": "000000001",
+      "pr_id": ["000000001", "000000002"],
       "subsidiary_id": 911,
       "location": {
         "address_line_1": "JL Jend Sudirman Kav 45",
@@ -19,7 +19,9 @@
         "requested_brand": "Requested Brand",
         "uom": "uom",
         "notes": "notes",
-        "material_number": "13234324343243"
+        "material_number": "13234324343243",
+        "pr_id": "000000001",
+        "location_internal_id": "SSSP"
       }, 
       {
         "name": "Mesin cuci",
@@ -27,11 +29,13 @@
         "requested_brand": "Samsung",
         "uom": "uom",
         "notes": "notes",
-        "material_number": "13234324343243"
+        "material_number": "13234324343243",
+        "pr_id": "000000002",
+        "location_internal_id": "SSSP"
       }]
     },
     {
-      "pr_id": "000000002",
+      "pr_id": ["000000003"],
       "subsidiary_id": 910,
       "location": {
         "address_line_1": "JL Jend Sudirman Kav 45",
@@ -49,7 +53,9 @@
         "requested_brand": "Requested Brand",
         "uom": "uom",
         "notes": "notes",
-        "material_number": "13234324343243"
+        "material_number": "13234324343243",
+        "pr_id": "000000003",
+        "location_internal_id": "SSSP"
       }]
     }
   ]
