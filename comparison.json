@@ -8,7 +8,7 @@
 	"root_category": "Information Technology",
 	"payment_terms": "Payment Terms",
 	"quotation_deliveries": [{
-		"pr_id": "000000000",
+		"pr_id": ["000000000"],
 		"delivery_information": {
 			"company_name": "PT Star Wars enterprise",
 			"company_id": 1,
@@ -31,7 +31,9 @@
 			"requested_brand": "Requested Brand",
 			"uom": "uom",
 			"notes": "notes",
-			"material_number": "13234324343243"
+			"material_number": "13234324343243",
+			"pr_id": "000000000",
+			"location_internal_id": "SWNP"
 		}],
 		"quotations": [{
 			"quotation_id": "Q-1234",
