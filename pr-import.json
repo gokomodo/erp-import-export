@@ -21,7 +21,7 @@
         "notes": "notes",
         "material_number": "13234324343243",
         "pr_id": "000000001",
-        "subsidary_internal_id": "ASMP",
+        "subsidiary_internal_id": "ASMP",
         "location_internal_id": "SSSP"
       }, 
       {
@@ -32,7 +32,7 @@
         "notes": "notes",
         "material_number": "13234324343243",
         "pr_id": "000000002",
-        "subsidary_internal_id": "ASMP",
+        "subsidiary_internal_id": "ASMP",
         "location_internal_id": "SSSP"
       }]
     },
@@ -57,7 +57,7 @@
         "notes": "notes",
         "material_number": "13234324343243",
         "pr_id": "000000003",
-        "subsidary_internal_id": "ASMP",
+        "subsidiary_internal_id": "ASMP",
         "location_internal_id": "SSSP"
       }]
     }
