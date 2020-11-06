@@ -21,6 +21,7 @@
         "notes": "notes",
         "material_number": "13234324343243",
         "pr_id": "000000001",
+        "subsidiary_internal_id": "ASMP",
         "location_internal_id": "SSSP"
       }, 
       {
@@ -31,6 +32,7 @@
         "notes": "notes",
         "material_number": "13234324343243",
         "pr_id": "000000002",
+        "subsidiary_internal_id": "ASMP",
         "location_internal_id": "SSSP"
       }]
     },
@@ -55,6 +57,7 @@
         "notes": "notes",
         "material_number": "13234324343243",
         "pr_id": "000000003",
+        "subsidiary_internal_id": "ASMP",
         "location_internal_id": "SSSP"
       }]
     }
