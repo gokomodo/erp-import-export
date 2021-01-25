@@ -10,7 +10,7 @@
 		"root_category": "Information Technology"
 	},
 	"tc_deliveries": [{
-		"pr_id": "000000000",
+		"pr_id": "000000001,000000002",
 		"delivery_information": {
 			"company_name": "PT Star Wars enterprise",
 			"company_id": 1,
@@ -27,6 +27,7 @@
 			}
 		},
 		"requested_items": [{
+			"pr_id": "000000001",
 			"name": "Television",
 			"quantity": 10,
 			"requested_brand": "Requested Brand",
@@ -35,6 +36,7 @@
 			"material_number": "13234324343243"
 		}],
 		"tc_delivery_items": [{
+			"pr_id": "000000001",
 			"name": "Product",
 			"uom": "Unit",
 			"brand": "",
