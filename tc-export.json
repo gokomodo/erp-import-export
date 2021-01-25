@@ -10,7 +10,7 @@
 		"root_category": "Information Technology"
 	},
 	"tc_deliveries": [{
-		"pr_id": "000000000",
+		"pr_id": "000000001,000000002",
 		"delivery_information": {
 			"company_name": "PT Star Wars enterprise",
 			"company_id": 1,
@@ -27,27 +27,29 @@
 			}
 		},
 		"requested_items": [{
+			"pr_id": "000000001",
 			"name": "Television",
 			"quantity": 10,
-			"requested_brand": "Requested Brand",
-			"uom": "uom",
+			"requested_brand": "LG",
+			"uom": "Unit",
 			"notes": "notes",
 			"material_number": "13234324343243"
 		}],
 		"tc_delivery_items": [{
-			"name": "Product",
+			"pr_id": "000000001",
+			"name": "Television",
 			"uom": "Unit",
-			"brand": "",
-			"unit_cost": 273000,
+			"brand": "LG",
+			"unit_cost": 5000000,
 			"delivery_cost": 0,
-			"delivered_unit_cost": 273000,
-			"quantity": 10000,
+			"delivered_unit_cost": 5000000,
+			"quantity": 10,
             		"discount_value": 10,
             		"discount_type": "percent",
-            		"discount_total": 273000000,
-			"total": 2457000000
+            		"discount_total": 5000000,
+			"total": 45000000
 		}],
-		"total": 2457000000,
+		"total": 45000000,
 		"total_delivery_cost": 0
 	}]
 }
